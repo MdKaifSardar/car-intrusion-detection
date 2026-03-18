@@ -1,0 +1,16 @@
+# Large dataset folder
+data/
+
+# Context and requirement files
+context.txt
+soc alert context.txt
+
+# Generated reports/logs
+alerts.json
+walkthrough.md
+dataset_setup_guide.md
+
+# Python cache and temporary scripts
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
