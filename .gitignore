@@ -4,9 +4,11 @@ data/
 # Context and requirement files
 context.txt
 soc alert context.txt
+assignment.md
 
 # Generated reports/logs
 alerts.json
+technical_report.html
 walkthrough.md
 dataset_setup_guide.md
 
